@@ -1,0 +1,74 @@
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\csc.exe
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\csc.exe.config
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\csc.rsp
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\csi.exe
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\csi.rsp
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\System.AppContext.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\System.Collections.Immutable.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\System.IO.FileSystem.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\System.Reflection.Metadata.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\vbc.exe
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\vbc.exe.config
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\vbc.rsp
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\VBCSCompiler.exe
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\roslyn\VBCSCompiler.exe.config
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\Cursos.WS.dll.config
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\Cursos.WS.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\Cursos.WS.pdb
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.pdb
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\EntityFramework.dll
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\bin\EntityFramework.xml
+D:\9 Semestre\Servicios Web\Laboratorio C#\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.csprojResolveAssemblyReference.cache
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\csc.exe
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\csc.exe.config
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\csc.rsp
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\csi.exe
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\csi.rsp
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\System.AppContext.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\vbc.exe
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\vbc.exe.config
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\vbc.rsp
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\Cursos.WS.dll.config
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\Cursos.WS.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\Cursos.WS.pdb
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\EntityFramework.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\EntityFramework.xml
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.csproj.CopyComplete
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.dll
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.pdb
+C:\Users\Emma\Downloads\Curso.WebService\Curso.WebService\Cursos.WS\obj\Debug\Cursos.WS.csprojAssemblyReference.cache
